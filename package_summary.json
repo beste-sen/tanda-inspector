@@ -1,0 +1,14 @@
+{
+  "tracks": 9857,
+  "files": [
+    "tango_tracks_dj_enriched_v2.csv",
+    "seed_tanda_examples_review_required.csv",
+    "tanda_labeling_template.csv",
+    "track_annotation_template_first_500.csv",
+    "tanda_engine.py",
+    "app.py",
+    "requirements.txt",
+    "README.md",
+    "column_dictionary.csv"
+  ]
+}

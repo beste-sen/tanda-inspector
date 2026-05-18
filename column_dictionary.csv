@@ -1,0 +1,10 @@
+column,meaning
+energy,1-10 kinetik enerji
+rhythmic_level,1-10 ritmik netlik/yürüme itişi
+dramatic_level,1-10 dramatik yoğunluk
+walking_quality,1-10 sosyal pistte yürünebilirlik
+late_night_score,1-10 geç saat uygunluğu
+beginner_friendly,1-10 karma seviye pist uygunluğu
+confidence,annotation güveni; low/medium/high
+floor_risk,başlıca pist riski
+recommended_slot,önerilen kullanım bağlamı
